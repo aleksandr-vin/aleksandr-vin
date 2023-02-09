@@ -8,6 +8,7 @@
   * [Streaming in Twitch](https://twitch.tv/aleksandrvin3254)
 - 💞️ I’m looking to collaborate on VR development and ChatGPT applications
 - 📫 How to reach me: [@aleksandrvin](http://twitter.com/aleksandrvin) on twitter, or in github issues/comments
+- ☕️ How to [buy me a coffee](https://www.buymeacoffee.com/aleksandrvin)
 
 <!---
 aleksandr-vin/aleksandr-vin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
