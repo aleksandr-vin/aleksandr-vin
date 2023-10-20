@@ -1,4 +1,5 @@
 - 👋 Hi, I 'm Aleksandr Vinokurov
+- 👨🏻‍💻 I'm #open-for-work
 - 👀 I’m interested in XR (VR, AR)
 - 🌱 I’m currently learning:
   * Saxophone playing
